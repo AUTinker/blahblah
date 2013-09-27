@@ -1,5 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout<<"haha"<<std:endl;
+    // hahah
+    std::cout<<"lalala"<<std:endl;
 }
